@@ -1,1 +1,1 @@
-# BLOG with Post, Users and Comments using GraphQL and MongoDB
+# BLOG with Posts, Users and Comments using GraphQL and MongoDB
